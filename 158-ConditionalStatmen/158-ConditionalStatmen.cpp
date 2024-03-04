@@ -17,6 +17,7 @@ int main()
 
 
 
+
     cout << "Masukkan Nilai Fisika : ";
     if (!(cin >> Fisika)) {
         cout << "Input bukan angka." << endl;
