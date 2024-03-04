@@ -26,6 +26,7 @@ int main()
 
 
 
+
     rerata = (Matematika + Fisika) / 2;
 
     if (rerata >= 60 || (Matematika >= 70 && rerata >= 50)) {
