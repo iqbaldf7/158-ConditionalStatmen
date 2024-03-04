@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "158-ConditionalStatmen", "158-ConditionalStatmen\158-ConditionalStatmen.vcxproj", "{3CAE0923-CE57-4719-82F3-57406C0EA679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CAE0923-CE57-4719-82F3-57406C0EA679}.Debug|x64.ActiveCfg = Debug|x64
+		{3CAE0923-CE57-4719-82F3-57406C0EA679}.Debug|x64.Build.0 = Debug|x64
+		{3CAE0923-CE57-4719-82F3-57406C0EA679}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CAE0923-CE57-4719-82F3-57406C0EA679}.Debug|x86.Build.0 = Debug|Win32
+		{3CAE0923-CE57-4719-82F3-57406C0EA679}.Release|x64.ActiveCfg = Release|x64
+		{3CAE0923-CE57-4719-82F3-57406C0EA679}.Release|x64.Build.0 = Release|x64
+		{3CAE0923-CE57-4719-82F3-57406C0EA679}.Release|x86.ActiveCfg = Release|Win32
+		{3CAE0923-CE57-4719-82F3-57406C0EA679}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CD80912-B85D-43EA-9321-7307558A81D0}
+	EndGlobalSection
+EndGlobal
